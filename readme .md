@@ -65,7 +65,4 @@ Type the number corresponding to your choice and press `Enter` to navigate the s
 * `tax_records.txt`: A flat text file generated automatically by the script to store saved tax calculations (comma-separated).
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check the issues page if you want to contribute.
-
-## 📝 License
-This project is open-source and available under the MIT License.
+Contributions, issues, and feature requests are welcome. Feel free to check the issues page if you want to contribution.
