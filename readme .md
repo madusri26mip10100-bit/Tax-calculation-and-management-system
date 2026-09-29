@@ -27,7 +27,7 @@ git clone https://github.com/madusri26mip10100-bit/Tax-calculation-and-managemen
 
 **2. Navigate to the project directory**
 ```bash
-cd Tax-calculation-and-management-system
+Tax-calculation-and-management-system
 ```
 
 *(Optional)* **Set up a virtual environment using Pip**
