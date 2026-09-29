@@ -27,7 +27,7 @@ git clone https://github.com/madusri26mip10100-bit/Tax-calculation-and-managemen
 
 **2. Navigate to the project directory**
 ```bash
-Tax-calculation-and-management-system
+cd Tax-calculation-and-management-system
 ```
 
 *(Optional)* **Set up a virtual environment using Pip**
@@ -43,7 +43,7 @@ python -m pip install --upgrade pip
 Run the main Python script from your terminal:
 
 ```bash
-python "madusri 26MIP10100_2.py"
+python "madusri 26MIP10100.py"
 ```
 
 Once the application starts, you will be presented with the **Main Menu**:
